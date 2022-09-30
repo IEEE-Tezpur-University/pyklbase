@@ -1,0 +1,3 @@
+fog.pickle
+*.pickle
+__pycache__
